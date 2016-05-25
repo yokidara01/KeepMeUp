@@ -19,7 +19,7 @@ Route::get('/', function()
 {
     return view('home');
 });	
-
+		
 Route::auth();
 
 Route::get('/home', 'HomeController@index');
