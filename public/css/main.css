@@ -1,0 +1,27 @@
+#logo{
+	background-image: url('../images/keepmeup-logo.png');
+	width: 167px;
+	height: 50px;
+	padding: 3px;
+	margin: 3px;
+	background-color: #4FADFF;
+	border-radius: 8px;
+	box-shadow: 5px 5px 5px #888888 ;
+}
+#Myelements
+{
+	background-color: black;
+	   position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+   }
+ body {
+   padding: 3px;
+	margin: 3px;
+}
+#navbar{
+	min-height: 100px;
+	padding-top: 15px;
+}
